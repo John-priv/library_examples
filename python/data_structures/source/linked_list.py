@@ -106,4 +106,4 @@ def demo_linked_list():
 
 # Temporary section: Remove after linked list is functional
 if __name__ == '__main__':
-    main()
+    demo_linked_list()
